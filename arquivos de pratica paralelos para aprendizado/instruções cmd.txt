@@ -1,0 +1,9 @@
+-dir=mostra os diretorios do usuario no windows no linux é -ls.
+-cd /=navegar no sistema, igual em ambos
+-cd..=volta uma passo na navegação
+-cls= limpa o terminal, -clear no linux
+apertar TAB para completar a digitação de caminhos óbvios no cmd
+-mkdir=cria uma pasta
+-del=deleta arquivos
+-rmdir= apaga pastas
+bandeiras /s para efetuar comando sem perqunta, e /q para deletar seus derivados.
