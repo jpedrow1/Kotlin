@@ -1,0 +1,1 @@
+#Livro de receitas em Markdownpor enquanto é algo bem abstrato, mas se houver uma pessoa sequer interessada nela, eu prometo manter. até agora temos uma receitas.##Segue a lista com as receitas prontas - Strogonoff
